@@ -1,2 +1,19 @@
 Notes
 -----
+
+1. You need:
+------------
+$ sudo apt-get install python-pyaudio
+
+2. Install
+----------
+$ git clone git@github.com:GhitaB/python-voice-exercises.git
+
+3. Run
+------
+$ cd python-voice-exercises
+$ python record.py
+
+4. Listen
+---------
+Open the demo.wav file. :) Yeee!
