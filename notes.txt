@@ -19,6 +19,7 @@ $ git clone git@github.com:GhitaB/python-voice-exercises.git
 ------
 $ cd python-voice-exercises
 $ python record.py
+$ python analyze.py
 
 4. Listen
 ---------
