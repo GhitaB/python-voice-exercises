@@ -129,6 +129,8 @@ def record_to_file(path):
 
 
 if __name__ == '__main__':
+    print "LET'S RECORD SOMETHING --------------------------------------------"
     print("please speak a word into the microphone")
     record_to_file('demo.wav')
     print("done - result written to demo.wav")
+    print "-------------------------------------------------------------------"
